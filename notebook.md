@@ -4,3 +4,9 @@ tasks completed:
 -valiated yaml file
 -reviewed python concepts
 -started reading about containers and docker
+
+
+date:09/13/18
+tasks completed:
+-installed cloudmesh
+-tried to create new command that was titled jordan
